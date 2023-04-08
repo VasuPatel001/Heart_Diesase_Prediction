@@ -55,3 +55,6 @@ This project requires Python 3.x and the following Python libraries should be in
 - [xgboost](https://xgboost.readthedocs.io/en/latest/build.html)
 
 I also reccommend to install Anaconda, a pre-packaged Python distribution that contains all of the necessary libraries and software for this project which also include jupyter notebook to run and execute [IPython Notebook](https://ipython.org/notebook.html).
+
+## Code
+Actual code to get started with the project is provided in two files one is in `heart-disease-classification.ipynb`.
