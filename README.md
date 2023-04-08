@@ -57,4 +57,24 @@ This project requires Python 3.x and the following Python libraries should be in
 I also reccommend to install Anaconda, a pre-packaged Python distribution that contains all of the necessary libraries and software for this project which also include jupyter notebook to run and execute [IPython Notebook](https://ipython.org/notebook.html).
 
 ## Code
-Actual code to get started with the project is provided in two files one is in `heart-disease-classification.ipynb`.
+Actual code to get started with the project is provided is in `heart-disease-classification.ipynb`.
+
+## Run
+In a terminal or command window, navigate to the top-level project directory and run one of the following commands:
+`ipython notebook heart-disease-prediction.ipynb` or
+
+`jupyter notebook heart-disease-prediction.ipynb`
+
+This will open the Jupyter Notebook software and project file in your browser.
+
+## Model Evaluation
+I have done model evaluation based on following sklearn metric.
+
+1. [Cross Validation Score](https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.cross_val_score.html)
+2. [Confusion Matrix](https://scikit-learn.org/stable/modules/generated/sklearn.metrics.confusion_matrix.html)
+3. [Plotting ROC-AUC Curve](https://scikit-learn.org/stable/modules/generated/sklearn.metrics.roc_curve.html)
+4. [Plotting Precision recall Curve](https://scikit-learn.org/stable/modules/generated/sklearn.metrics.precision_recall_curve.html)
+5. [Sensitivity and Specitivity](https://en.wikipedia.org/wiki/Sensitivity_and_specificity)
+6. [Classification Error](https://www.dataschool.io/simple-guide-to-confusion-matrix-terminology/)
+7. [Log Loss](https://scikit-learn.org/stable/modules/generated/sklearn.metrics.log_loss.html)
+8. [Mathew Correlation coefficient](https://scikit-learn.org/stable/modules/generated/sklearn.metrics.matthews_corrcoef.html)
