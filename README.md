@@ -48,10 +48,10 @@ This dataset consists of 11 features and a target variable. It has 6 nominal var
 This project requires Python 3.x and the following Python libraries should be installed to get the project started:
 
 - [Numpy](https://numpy.org/)
-- Pandas
-- matplotlib
-- scikit-learn
-- seaborn
-- xgboost
+- [Pandas](https://pandas.pydata.org/)
+- [matplotlib](https://matplotlib.org/)
+- [scikit-learn](https://scikit-learn.org/stable/)
+- [seaborn](https://seaborn.pydata.org/installing.html)
+- [xgboost](https://xgboost.readthedocs.io/en/latest/build.html)
 
-I also reccommend to install Anaconda, a pre-packaged Python distribution that contains all of the necessary libraries and software for this project which also include jupyter notebook to run and execute IPython Notebook.
+I also reccommend to install Anaconda, a pre-packaged Python distribution that contains all of the necessary libraries and software for this project which also include jupyter notebook to run and execute [IPython Notebook](https://ipython.org/notebook.html).
