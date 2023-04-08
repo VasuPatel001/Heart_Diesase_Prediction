@@ -12,10 +12,10 @@ In this notebook I will try to unleash useful insights using this heart disease 
 
 Table of Content of this notebook:
 
-Data description
-Importing Libraries & setting up environment
-Loading dataset
-Data Cleaning & Preprocessing
+1. Data description
+2. Importing Libraries & setting up environment
+3. Loading dataset
+4. Data Cleaning & Preprocessing
 Exploratory Data Analysis
 OUtlier Detection & Removal
 Training & Test Split
