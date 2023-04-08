@@ -16,12 +16,12 @@ Table of Content of this notebook:
 2. Importing Libraries & setting up environment
 3. Loading dataset
 4. Data Cleaning & Preprocessing
-Exploratory Data Analysis
-OUtlier Detection & Removal
-Training & Test Split
-Cross Validation
-Model Building
-Model evaluation & comparison
-Feature Selection
-Model Evaluation
-Conclusion
+5. Exploratory Data Analysis
+6. Outlier Detection & Removal
+7. Training & Test Split
+8. Cross Validation
+9. Model Building
+10. Model evaluation & comparison
+11. Feature Selection
+12. Model Evaluation
+13. Conclusion
