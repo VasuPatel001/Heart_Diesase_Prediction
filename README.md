@@ -27,6 +27,8 @@ Table of Content of this notebook:
 13. Conclusion
 
 ## About Data
+Dataset is ontained from "heart statlog cleveland hungary" which is curated by combining 5 popular heart disease dataset namely from, Cleveland, Hungarian, Switzerland, Long Beach VA and Statlog (Heart) dataset.
+
 This dataset consists of 11 features and a target variable. It has 6 nominal variables and 5 numeric variables. The detailed description of all the features are as follows:
 
 1. Age: Patients Age in years (Numeric)
