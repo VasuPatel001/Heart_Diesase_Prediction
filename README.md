@@ -1,4 +1,4 @@
-# Heart Disease Prediction using Machine Learning Approach
+# Heart Disease Prediction using Machine Learning Approaches
 
 ## About heart disease
 Heart Disease (including Coronary Heart Disease, Hypertension, and Stroke) remains the No. 1 cause of death in the US.The Heart Disease and Stroke Statistics—2019 Update from the American Heart Association indicates that:
